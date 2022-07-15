@@ -14,3 +14,4 @@ public class Purchase {
         return items.stream().map(Object::toString).collect(Collectors.joining());
     }
 }
+
